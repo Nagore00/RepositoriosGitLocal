@@ -6,7 +6,7 @@ public class HolaMundo {
 		System.out.println("Hola Mundo!");
 		System.out.println("Tercer cambio");
 		System.out.println("Conflicto segundo usuario");
-		System.out.println("Conflicto segundo usuario con el primer usuario");
+		System.out.println("Solución conflicto");
 	}
 
 }
